@@ -10,8 +10,6 @@ const twoSum1 = (nums, target) => {
   }
 }
 
-
-
 // Using HashMap
 const twoSum = (nums, target) => {
   const numbers = {};
