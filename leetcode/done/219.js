@@ -1,4 +1,4 @@
-// URL: https://leetcode.com/problems/contains-duplicate-ii/submissions/
+// URL: https://leetcode.com/problems/contains-duplicate-ii
 
 const containsNearbyDuplicate = (nums, k) => {
   // object's structure -> { element: index }
